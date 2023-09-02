@@ -7,7 +7,7 @@ rel<div align="center">
 
 - 💻 My discord: **estrelagaroto**
 
-- 👤 My portifolio: Soon
+- 👤 My portifolio: https://beyz.glitch.me/
 
 - 📫 My contact: **estrelagaroto**
 
