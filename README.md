@@ -1,15 +1,15 @@
-<div align="center">
+rel<div align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/937184972376565107/800E7077A9ACE841BBD6D088674CA9603DC589B3/" width="350">
   <h1><b>Hi there, I'm 17 years old! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
 <h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px"/></h3>
 
-- 💻 My discord: **cirqueira**
+- 💻 My discord: **estrelagaroto**
 
 - 👤 My portifolio: Soon
 
-- 📫 My contact: **leonardoschiffner88@gmail.com**
+- 📫 My contact: **estrelagaroto**
 
 - ⚡ More: **I try to create everything that I find interesting**
 <br>
